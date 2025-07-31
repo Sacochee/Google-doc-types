@@ -1,0 +1,22 @@
+{
+  "name": "@ton-username/google-doc-types",
+  "version": "1.0.0",
+  "description": "Types TypeScript pour l'API Google Docs",
+  "main": "", 
+  "types": "type.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ton-username/google-doc-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "google-docs",
+    "api"
+  ],
+  "author": "Duprat Sacha",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
