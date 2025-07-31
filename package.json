@@ -1,12 +1,12 @@
 {
-  "name": "@Sacochee/google-doc-types",
+  "name": "@sacochee/google-doc-types",
   "version": "1.0.0",
   "description": "Types TypeScript pour l'API Google Docs",
   "main": "", 
   "types": "type.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sacochee/google-doc-types.git"
+    "url": "https://github.com/sacochee/google-doc-types.git"
   },
   "keywords": [
     "typescript",
