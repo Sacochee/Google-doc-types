@@ -2,6 +2,22 @@
 
 Ce projet fournit une définition **TypeScript** presque complète du **schéma JSON** renvoyé par l’API Google Docs. Il est basé entièrement sur la [documentation officielle de Google Docs](https://developers.google.com/docs/api/reference/rest/v1/documents).
 
+## 🧪 Installation
+
+Pour installer la bibliothèque, exécute la commande suivante dans ton terminal :
+
+```bash
+npm install @saccoche/google-doc-types
+```
+
+## 🧪 Utilisation
+
+Simplement des types.
+
+```ts
+import { Document, ParagraphElement, TextRun } from "@saccoche/google-doc-types";
+```
+
 ## 📦 Contenu
 
 - Représentation typée du document Google Docs en TypeScript
@@ -34,10 +50,4 @@ Tu veux participer ? Voici comment aider :
 
 Je serais ravi de recevoir vos retours ou contributions ! ✨
 
-## 🧪 Utilisation
 
-1. Clone ce projet ou intègre-le à ton propre code TypeScript
-2. Importe les types dont tu as besoin :
-
-```ts
-import { Document, ParagraphElement, TextRun } from "./type";
