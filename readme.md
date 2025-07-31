@@ -16,7 +16,7 @@ Ce projet est **partiellement terminé** :
 - Les types liés aux suggestions ne sont pas encore définis
 - Certains champs ne sont pas explicitement marqués comme `undefined` ou non, car la documentation de Google est parfois ambiguë à ce sujet
 - Plusieurs commentaires `// TODO` marquent les zones à compléter
-- Tous les types ne sont pas encore exportés depuis `Gdoc.ts`
+- Tous les types ne sont pas encore exportés depuis `type.d.ts`
 
 > Ce projet est un **work in progress**. Toute contribution est la bienvenue !
 
